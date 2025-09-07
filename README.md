@@ -56,7 +56,7 @@ The dataset used is Tableau’s **Sample Superstore dataset**, which contains:
 ## 📸 Dashboard Preview
 *(Insert screenshot here)*  
 Example:  
-![Dashboard Screenshot](Online Sales Dashboard.png)
+![Dashboard Screenshot]([Online Sales Dashboard.png](https://github.com/rayapatimounika/Online-Sales-Dashboard-Tableau/blob/main/Online%20Sales%20Dashboard.png))
 
 ---
 
