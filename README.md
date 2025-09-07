@@ -1,5 +1,4 @@
 # Online-Sales-Dashboard-Tableau
-# 📊 Online Sales Dashboard (Tableau)
 
 ## 📌 Project Overview
 This project showcases an **interactive Tableau dashboard** designed using the **Sample Superstore dataset**.  
@@ -73,7 +72,7 @@ This dashboard empowers business users to:
 ## 📂 Repository Contents
 - `OnlineSalesDashboard.twbx` → Tableau packaged workbook  
 - `Sample-Superstore.xls` → Dataset used  
-- `DashboardPreview.png` → Dashboard screenshot  
+- `OnlineSalesDashboard.png` → Dashboard screenshot  
 - `README.md` → Project documentation  
 
 ---
