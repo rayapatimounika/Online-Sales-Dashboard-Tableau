@@ -57,7 +57,7 @@ The dataset used is Tableau’s **Sample Superstore dataset**, which contains:
 ## 📸 Dashboard Preview
 *(Insert screenshot here)*  
 Example:  
-![Dashboard Screenshot](Screenshots/OnlineSalesDashboard.png)
+![Dashboard Screenshot]([Screenshots/OnlineSalesDashboard.png](https://github.com/rayapatimounika/Online-Sales-Dashboard-Tableau/blob/main/Online%20Sales%20Dashboard.png))
 
 ---
 
@@ -82,4 +82,4 @@ This dashboard empowers business users to:
 **Mounika Rayapati** (2025)  
 Power BI & Tableau Developer | Data Analyst  
 
-https://github.com/rayapatimounika/Online-Sales-Dashboard-Tableau/blob/main/Online%20Sales%20Dashboard.png
+
